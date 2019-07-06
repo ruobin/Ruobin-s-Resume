@@ -8,10 +8,13 @@
  
 
 ## EDUCATION
-- 2006.9～2010.7    |    Sun Yat-sen University    |    BS of Geographic Information System
+
+| __Date__ | __University__ | __Major__ |
+| ----------- | ----------- | ----------- |
+| 2006.9～2010.7 | Sun Yat-sen University | BS of Geographic Information System |
 
 ## EMPLOYMENT HISTORY
-| Date | Company | Position |
+| __Date__ | __Company__ | __Position__ |
 | ----------- | ----------- | ----------- |
 | 2016.9-Present | Walt Disney Company (China) | Android Tech Lead |
 | 2014.4-2016.9 | Alibaba Group | Mobile Software Developer |
