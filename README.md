@@ -1,9 +1,8 @@
 ## PERSONAL INFORMATION
 - Name:		Ruobin Wang			
-- Age: 			31				
-- Mobile: 	86-13296745750		
+- Age: 			33				
 - E-mail: 			ruobin.wang.us@gmail.com
-- Residence: 	Shanghai, China		
+- Residence: 	Singapore		
 - Nationality:		Chinese
  
 
@@ -16,7 +15,8 @@
 ## EMPLOYMENT HISTORY
 | __Date__ | __Company__ | __Position__ |
 | ----------- | ----------- | ----------- |
-| 2016.9-Present | Walt Disney Company (China) | Android Tech Lead |
+| 2020.6-present | Care Health | Software Engineer - backend/node.js |
+| 2016.9-2020.4 | Walt Disney Company (China) | Tech Lead - Java/Android |
 | 2014.4-2016.9 | Alibaba Group | Mobile Software Developer |
 | 2011.06-2013.7 | Tianya Club | Android Software Engineer |
 | 2010.04-2011.05 | AsiaInfo-Linkage, Inc. | Java Software Engineer |
